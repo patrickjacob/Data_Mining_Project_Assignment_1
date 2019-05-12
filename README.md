@@ -6,9 +6,9 @@ This is the results of the first Data Mining Project from 2017
 ### PART 1: CLASSIFICATION 
 Classification of chronic-kidney-disease-2016.arff
 1. This part of the assignment is concerned with the file:
-chronic-kidney-disease-2016.arff.
+[chronic-kidney-disease-2016.arff](https://github.com/patrickjacob/Data_Mining_Project_Assignment_1/blob/master/files/chronic-kidney-disease-2016.arff)
 There is a description of the data in the file
-chronic-kidney-disease.info.txt
+[chronic-kidney-disease.info.txt](https://github.com/patrickjacob/Data_Mining_Project_Assignment_1/blob/master/files/chronic-kidney-disease.info.txt)
 2. Run the following classifiers, with the default parameters, on this data: ZeroR, OneR, J48, IBK and construct a table of the training and cross-validation errors. You can get the training error by selecting “Use training set” as the test option.
 What do you conclude from these results?
 
@@ -44,8 +44,8 @@ Clustering of the chronic kidney disease data of part 1. For this part use only 
 7. Compare the use Kmeans and EMfor these clustering tasks. Which do you think is best? Why?
 8. What golden nuggets did you find, if any?
 
-### PART 4: ASSOCIATION FINDING 10 marks
-Association finding in the files bakery-data1.arff and bakery-data2.arff 
+### PART 4: ASSOCIATION FINDING
+Association finding in the files [bakery-data1.arff](https://github.com/patrickjacob/Data_Mining_Project_Assignment_1/blob/master/files/bakery-data1.arff) and [bakery-data2.arff](https://github.com/patrickjacob/Data_Mining_Project_Assignment_1/blob/master/files/bakery-data2.arff)
 These files contain the same details of shopping transactions represented in two different ways. You can use a text viewer to look at the files.
 1. What is the difference in representations?
 2. Load the file bakery-data1.arff into weka and run the Apriori algorithmon this data. Youmight need to restrict the number of attributes and/or the number of examples. What significant associations can you find?
